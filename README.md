@@ -46,7 +46,7 @@ The project follows an event-driven serverless architecture where an Amazon S3 b
 
 ### Architecture Diagram
 
-![Architecture](Architecture/AWS-Lambda-S3-Upload-Notification-Architecture.png)
+![Architecture](Architecture/AWS-Lambda-S3-Notification-Architecture.png)
 
 ---
 
