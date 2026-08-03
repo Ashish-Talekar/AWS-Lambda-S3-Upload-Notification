@@ -111,7 +111,7 @@ Configuration details for Amazon SNS, IAM Role, Environment Variables, Lambda Tr
 
 ## 5. Amazon S3 Event Trigger
 
-![Trigger](Screenshots/08-S3-Event-Trigger-Configured.png)
+![Trigger](Screenshots/08-S3-Event-Trigger-Configuration.png)
 
 ---
 
