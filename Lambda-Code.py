@@ -6,7 +6,7 @@ Description:
 This AWS Lambda function is triggered whenever a new file is uploaded
 to an Amazon S3 bucket. It retrieves the bucket name and object name
 from the S3 event and sends an email notification using Amazon SNS.
-
+"""
 import boto3
 import os
 
